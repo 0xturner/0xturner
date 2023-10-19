@@ -4,7 +4,7 @@
 const turner = {
   code: [Javascript, Typescript, Solidity, Java],
   tools: [React, Node, AWS, Postgres, Jest, Docker],
-  askMeAbout: ["functional programming", "distributed systems", "photography", "backcountry skiing"],
+  askMeAbout: ["static types", "distributed systems", "photography", "backcountry skiing"],
   contactMe: (at = "@") => window.open(`mailto:turnerschumann+gh${at}gmail.com`);
 }
 ```
